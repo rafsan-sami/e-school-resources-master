@@ -1,0 +1,54 @@
+.container{
+    padding-top: 100px;
+}
+.navbar-brand img{
+    height: 59px;
+    width: 198.07142639160156px;
+    left: 212px;
+    top: 30px;
+}
+.navbar-expand-lg{
+    background-color: #F0FFF0;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.btn{
+    background-color: #21B573;
+    width: 90px;
+    border-radius: 33px;
+}
+.sec-opt img{
+    height: 410px;
+    width: 529px;
+    left: 691px;
+    top: 157px;
+    border-radius: 0px;
+}
+.sec-opt{
+    background: #F0FFF0;
+}
+.word h6{
+    color: #FD511A;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 100px;
+}
+.word h2{
+    padding-left: 100px;
+}
+.word p{
+    height: 85px;
+    width: 403px;
+    padding-left: 100px;
+}
+.word button{
+       
+}
+.text-center{
+    display: block;
+    padding-right: 375px;
+}
+.text-center button{
+    width: 110px;
+}
